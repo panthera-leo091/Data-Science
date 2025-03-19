@@ -1,0 +1,5 @@
+a = int(input("a = "))
+b = int(input("b = "))
+print("a + b =", end=" ")
+# print(a+b)
+print("Hello World! 😅")
